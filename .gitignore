@@ -13,12 +13,20 @@
 
 # Output files from R CMD build
 /*.tar.gz
+*.css
+*.R
+*.Rmd
+data_original/
+outputs/
+docs/data_original
+docs/outputs
 
 # Output files from R CMD check
 /*.Rcheck/
 
 # RStudio files
 .Rproj.user/
+*.Rproj
 
 # produced vignettes
 vignettes/*.html
