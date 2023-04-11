@@ -13,7 +13,6 @@
 
 # Output files from R CMD build
 /*.tar.gz
-*.css
 *.R
 *.Rmd
 data_original/
